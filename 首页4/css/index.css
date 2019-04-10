@@ -1,0 +1,93 @@
+*{margin: 0 ; padding: 0;}
+
+.auto1{width: 1200px; height: 73px; margin: auto; }
+.header{width: 100%; height: 73px;/* border: 1px solid red;*/ background-color: #ffffff; cursor: pointer;}
+.header ul{list-style: none; line-height: 73px;  display: block;clear: both;content: ".";}
+.header ul li{ float: left; }
+.header a{text-decoration: none; color: #2c2c2c; font-size: 16px; font-family: "微软雅黑";}
+.header1{width: 100%; height: 40px; background-color: #d8d8d8;}
+.chanpin{margin: auto; width: 1200px; height: 36px; font-size: 16px; color: #8D8D8D; line-height: 36px;}
+.tu1{width: 163px; height: 72px; }
+.zi{margin-left: 55px; }
+.tu2{width: 137px; height: 72px;margin-left: 420px;}
+.tu2 img{margin-top: -2px;}
+
+/*中间*/
+.main{width: 100%; height: 4950px; background-color: #f4f4f4;}
+.main_one{width: 100%; height: 846px; background-image: url(../img/4_02.png); background-repeat: no-repeat; background-size: 100% 100%;}
+
+.main_two{margin: auto; width: 1200px; height: 454px; }
+.two_1{width: 1200px; height: 62px; }
+.two_1 ul{display: flex;justify-content: space-around; list-style: none;}
+.two_1 li{width: 240px; height: 62px; }
+.li_one{background-color: #efefef;}
+.li_two{background-color: #dcdcdc;}
+.two_1a{margin: auto; width: 130px; height: 24px; font-size: 14px; color: #077f44;text-align: right;line-height: 30px;}
+.two_1b{margin: auto;width: 130px; height: 1px; background-color: #077f44;}
+.two_1c{margin: auto; width: 130px; height: 24px; font-size: 14px; color: #077f44;text-align: left;}
+.two_2{ margin-left: 240px; width: 939px; height: 310px; }
+.two_2 ul{list-style: none;}
+.two_2 li{margin: auto; margin-top: 20px; width: 860px; height: 50px; font-size: 12px; color: #888888;}
+.xian{width: 100%;height: 1px; background-color: #888888;}
+.main_three{margin: auto;  width: 1200px;height: 1200px; }
+.three_auto{width: 678px; height: 1130px; margin: auto;}
+.three_auto1{display: flex;justify-content: space-between; width: 351px; height: 84px;}
+.three_right{width:311px ; height: 82px; }
+.zi1{margin-top: 5px; width: 43px; height: 1px; background-color: #8D8D8D;}
+.zi2{margin-top: 10px; width: 43px; height: 18px; font-size: 12px;color: #888888;line-height: 18px;}
+.zi3{margin-top: 15px; width: 311px; height: 20px; font-size: 12px; color: #888888;line-height: 20px;}
+.main_four{margin: auto; width: 1200px; height: 1129px; }
+.four_two{width: 1200px; height: 1086px; }
+
+.four_two_top{margin-left: 270px; width: 934px; height: 972px; }
+.four_two_toptu{display: inline-block;}
+.four_two_foot{display: flex;justify-content: space-between; margin-left: 620px; width: 239px; height: 53px; }
+.four_two_foot1{width:100px ;border: 1px solid #8D8D8D; height: 45px ;font-size: 30px; color: #D8D8D8;text-align: center;line-height: 45px;}
+
+.main_five{margin: auto; width: 1200px ;height: 703px; }
+.five_2{margin-left: 260px; width: 937px; height: 538px; }
+.five_tu{display: inline;}
+.main_six{margin: auto; width: 1200px; height: 556px; }
+.six_2{display: flex;justify-content: space-between; margin-left: 260px; width: 934px; height: 406px; }
+.six_2a{width: 305px; height: 401px; border: 1px solid #8D8D8D;}
+.a_5{width:300 px; height:205 px;}
+.a_1{margin-top: 5px; width: 84px; height: 1px ; background-color: #8D8D8D;}
+.a_2{  width: 84px; height: 20px;font-size: 14px; }
+.a_3{ width: 260px ;height: 20px; font-size: 12px; }
+.a_4{margin-top: 15px; width: 245px; height: 20px; font-size: 12px; color: #8D8D8D;}
+#a{margin-top: 30px;}
+
+
+
+
+
+
+
+
+
+/*底部*/
+.foot{ width: 100%; height: 330px; background-color: #f4f4f4; }
+.auto7{width: 1200px; height: 330px; margin: auto;}
+.foota{ height: 270px; width: 100%;background-color: #f4f4f4; }
+.footb{ width: 100%; height: 59px; background-color: #888888;}
+.footc{float: left;}
+.foot ul{margin-top: 30px; list-style: none; }
+.foot li{ margin-top: 13px;}
+.footc1{font-size: 18px; }
+.footc2{font-size: 20px; color: #4c9786;}
+.footc4 div{width: 142px; height: 1px; background-color: #338c79;}
+.footc3{line-height: 20px;  font-size: 13px; width: 360px; height: 20px; }
+
+
+.xiao{margin-left: 20px; margin-top: -27px; line-height: 22px; /*display: inline;*/ width: 300px; height: 22px;  }
+.bb{float: right;margin-top: 146px;}
+.bbb{float: right;margin-top: 146px;margin-right: 41px;}
+.fzi{margin: auto; width: 1200px; height: 59px; color: white; line-height: 59px;  font-size: 15px;}
+
+
+
+
+
+
+
+

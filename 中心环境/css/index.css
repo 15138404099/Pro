@@ -1,0 +1,62 @@
+*{margin: 0; padding: 0;}
+
+.header{width: 100%; height: 96px;background-color: white;}
+.header_auto{display: flex; justify-content: space-between; margin: auto;  width: 1200px; height: 96px; }
+.header_a{display: flex; justify-content: space-around; width: 496px; height:96px ;}
+.header_b{width: 321px; height: 96px;}
+.header_c{width: 213px; height: 96px; }
+.header_a3{width: 214px; height: 96px; line-height: 110px; color: #ee8f0f;font-size: 17px;}
+.header_c1{display: flex; justify-content: space-around;}
+.header_c1a{ margin-top: 15px; width: 65px ; font-size: 13px; height: 27px; line-height: 27px;}
+.header_c1b{margin-top: 15px; width: 56px ; font-size: 13px; height: 27px; line-height: 27px;}
+.header_c1c{margin-top: 5px; width: 70px ; font-size: 13px; height: 27px; line-height: 27px;}
+.header_c2{margin-top: 15px; width: 211px; height: 58px ;}
+/*中间开始*/
+
+.main_one{ width: 100%;height: 604px;background-image: url(../img/a_02.png); background-repeat: no-repeat;background-size:100% 100%;}
+/*.main_one img{width: 100%;}*/
+.main_a_top{margin: auto; width: 100%;}
+.main_a_top img{margin: auto; width: 100%;}
+.main_a_top1{ width: 100%; height: 59px; }
+
+.main_a_top_zi {  width: 1200px; height: 60px; margin: auto;display: flex; justify-content: space-around;}
+.main_a_top_z{margin-top:20px ; margin-left: 50px; width: 120px; height: 59px; font-size: 15px; color: #038dd8; line-height: 55px;}
+.main_two{width: 100%; height: 1246px;  background-color: #f9f9f9;}
+.two_auto{ margin: auto; width: 1200px; height: 1100px; border: 1px solid #cbcbcb; border-radius: 20px 20px 20px 20px;}
+.two_top{width: 1200px; height: 66px; display: flex;justify-content: space-between;}
+.two_top1{width:155 px; height: 66px; margin-left: -2px;}
+.two_top2{width: 260px; height: 66px; font-size: 14px; line-height:66px; text-align: center; color: grey; }
+.two_2{width: 1200px; height: 1075px;  margin-top: 15px;}
+.two_2 ul{list-style: none;}
+.two_2 li{width: 1198px; height: 245px; }
+.a{display: flex;justify-content: space-around;}
+.a1{width: 225px; height: 239px;}
+.a2{width: 219px; height: 191px;}
+.a3{ width: 224px; height: 44px; background-color: #CBCBCB; line-height: 44px; text-align: center; font-size: 13px;margin-top: -8px;}
+.b{ display: flex;justify-content: space-between; width:181px; height: 53px; margin: auto;  margin-top: 100px;}
+.b1{width:59px; height: 33px; border: 1px solid #CBCBCB; font-size: 12px; line-height: 33px;text-align: center;color: black;}
+.b2{width: 33px; height: 33px; background-color: #038DD8;color: white;font-size: 12px; text-align: center;line-height: 33px;}
+
+.main_five{ width: 100%; height:48px ; background-color:#91cfeb ; color: #0168b7;}
+.five_auto{display: flex; justify-content: space-around; margin: auto; width: 538px; height: 48px;}
+.five_a{width: 88px; height: 48px; line-height: 48px; font-size: 13px;}
+
+
+/*底部*/
+.foot{width: 100%; height: 353px; background-color: #44b4dc;}
+.foot_auto{margin: auto; display: flex; justify-content: space-between; width: 1200px; height: 300px; }
+.f_as{margin-top: 35px; width: 278px; height: 230px; }
+.f_as1{margin-top: 15px; font-size: 17px; color: white;}
+.f_as2{margin-top: 20px; width: 182px; height: 85px; display: flex; justify-content: space-between;}
+.as{ width: 80px; height: 83px;display: inline;}
+.bs{margin-left: 5px; width:75px ; height: 50px; font-size: 15px; color: white;display: inline;}
+.f_as3{margin-top: 5px; width:253 px; height:93px ; font-size: 13px; color: white;}
+.f_bs{width: 286px; height: 230px;}
+.aas{margin-top: 50px; font-size: 18px; color: white;width: 283px; height: 25px;}
+.as1{margin-top: 10px; font-size: 13px; color: white;width: 283px; height: 25px;}
+.f_cs{width: 312px; height: 292px; }
+.cs1{ margin-top: 50px;width: 159 px; height: 27 px; font-size: 18px; color: white;}
+.cs2{margin-top: 10px; width: 231 px; height: 27px; font-size: 14px; color: white;}
+.cs3{margin-top: 5px; width: 150px; height: 24px ; font-size: 14px; color: white;}
+.cs4{margin-top: 10px; width: 119px; height: 50px; display: flex; justify-content: space-around;}
+.cs5{margin-top: 5px; width: 206px; height: 106px; display: flex; justify-content: space-around;s}
